@@ -1,0 +1,20 @@
+{
+  "short_name": "CryptoGuard",
+  "name": "CryptoGuard AI Analyst",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10452/10452243.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10452/10452243.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}

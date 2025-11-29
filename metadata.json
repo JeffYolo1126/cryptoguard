@@ -1,0 +1,8 @@
+{
+  "name": "CryptoGuard AI Analyst",
+  "description": "专业的 Gemini 驱动的加密货币合约交易助手。提供技术分析、交易信号和自动绩效跟踪。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
